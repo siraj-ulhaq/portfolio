@@ -5,7 +5,8 @@ This is a basic portfolio website developed using HTML and CSS. The website show
 ## Technologies Used
 
 - HTML5
-- CSS3
+- CSS3 with Bootstrap 5
+- Javascript
 
 ## Features
 
