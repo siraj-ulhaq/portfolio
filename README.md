@@ -24,7 +24,7 @@ To make changes to the website, you can edit the HTML and CSS files in a code ed
 ## Usage
 
 - On the home page, click on the links in the navigation bar to navigate to different sections of the website.
-- In the portfolio section, click on the thumbnail images to view details about each project.
+- In the portfolio section, click on the thumbnail images to view details about each project.(soon)
 - In the contact section, fill out the form and click the "Send Message" button to send a message to the developer.
 
 ## License
