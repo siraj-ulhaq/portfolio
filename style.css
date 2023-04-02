@@ -1,22 +1,31 @@
+.navbar{
+    background-color: #222222;
+}
+
+#nav{
+    padding-left:200px;
+    padding-right:200px;
+}
+
+#main{
+    padding-top: 50px;
+    padding-left:280px;
+    padding-right:280px;
+    background-color: #222222;
+}
+
 #contact{
     color:white;
     text-decoration-style: dotted;
 }
 
-#main{
-    padding-left:200px;
-    padding-right:200px;
-}
-
 #footer{
     /** padding:90px; **/
+    text-align: left;
     padding-top: 45px;
     padding-left:200px;
     padding-right:200px;
     padding-bottom:45px;
+    background-color: #222222;
 }
 
-#nav{
-    padding-left:120px;
-    padding-right:120px;
-}
